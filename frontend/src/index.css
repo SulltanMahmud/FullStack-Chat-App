@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
 @plugin "daisyui" {
-  themes: "light --default", "dark --prefersdark", "cupcake", "retro", "light", "dark",
-    "cupcake", "retro", "synthwave", "forest", "business"
+  themes: "light --default", "dark --prefersdark", "cupcake", "retro", "light",
+    "dark", "cupcake", "retro", "synthwave", "forest", "business";
 }
